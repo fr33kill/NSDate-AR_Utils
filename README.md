@@ -4,6 +4,7 @@ Category class for NSDate which has custom methods making life easier. Special t
 The methods that can be used are - 
 
 -(NSString *) shortDateString;
+
 -(NSString *) mediumDateString;
 -(NSString *) longDateString;
 -(NSString *) UTCString;
